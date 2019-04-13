@@ -1,0 +1,13 @@
+*.iml
+.idea/
+.git/
+/vendor/*
+composer.phar
+*.ipr
+*.config
+*.iws
+.idea_modules/
+composer.lock
+/uploads/*
+/logs/*
+#except
